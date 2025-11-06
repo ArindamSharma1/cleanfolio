@@ -56,3 +56,13 @@ button {
     font-size: 2.6rem;
   }
 }
+
+.gradual-blur {
+  filter: blur(0px);
+  transition: filter 0.4s ease;
+}
+
+.gradual-blur:hover {
+  filter: blur(2px);
+}
+

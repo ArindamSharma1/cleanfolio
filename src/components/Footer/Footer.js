@@ -1,12 +1,12 @@
 import './Footer.css'
 
 const Footer = () => (
-  <footer className='footer'>
-    <a
-      href='https://github.com/rjshkhr/cleanfolio'
+  <footer className='footer'> 
+    <a  target="_blank" rel="noopener noreferrer"
+      href='https://github.com/ArindamSharma1' 
       className='link footer__link'
     >
-      Created By Raj Shekhar
+      Created By Arindam Sharma
     </a>
   </footer>
 )

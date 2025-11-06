@@ -9,14 +9,18 @@ const Projects = () => {
   return (
     <section id='projects' className='section projects'>
       <h2 className='section__title'>Projects</h2>
+      <p className='section__text'>Coming soon</p>
 
-      <div className='projects__grid'>
+      {/* WILL ENABLE PROJECTS GRID LATER */}
+      
+      {/* <div className='projects__grid'>
         {projects.map((project) => (
           <ProjectContainer key={uniqid()} project={project} />
         ))}
-      </div>
+      </div> */}
     </section>
   )
 }
 
 export default Projects
+

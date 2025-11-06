@@ -49,6 +49,7 @@
   border-radius: 70%;   /* round profile */
   object-fit: cover;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  transition: filter 0.4s ease;
 }
 
 .about__intro {

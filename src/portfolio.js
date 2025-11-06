@@ -1,21 +1,21 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'index.html',
+  title: 'AS.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
+  name: 'Arindam Sharma',
   role: 'Front End Engineer',
-  picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
+  picture: 'cl.jpeg',
 
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'UI/UX + front-end developer who loves building minimal, aesthetic and fast digital experiences. I focus on clean interfaces that feel effortless to use, and I enjoy turning ideas into polished products with both design and code.',
+  resume: 'https://drive.google.com/file/d/1melWSAiVb81eMQUlmfSAeixeB1glXWuH/view?usp=sharing',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/arindam-sharma-ab4712251/',
+    github: 'https://github.com/ArindamSharma1',
   },
 }
 
@@ -58,18 +58,18 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'React',
-  'Redux',
-  'SASS',
+  'Dora',
+  'Framer',
   'Material UI',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Ui/Ux',
+  'Spline',
+  'Tailwind CSS',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'sharmaarindam091@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
