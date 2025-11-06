@@ -1,3 +1,10 @@
 .contact {
   flex-direction: column;
 }
+
+.open {
+  margin-bottom: 24px;
+  font-size: 18px;
+  color: var(--text-secondary);
+  text-align: center;
+}

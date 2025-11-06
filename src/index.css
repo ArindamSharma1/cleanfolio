@@ -14,6 +14,16 @@
 html {
   scroll-behavior: smooth;
 }
+::-moz-selection {
+  background: var(--clr-primary);
+  color: #fff;
+}
+
+::selection {
+  background: var(--clr-primary);
+  color: #fff;
+}
+
 
 h1,
 h2,
