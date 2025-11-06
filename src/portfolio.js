@@ -11,7 +11,7 @@ const about = {
   picture: 'cl.jpeg',
 
   description:
-    'UI/UX + front-end developer who loves building minimal, aesthetic and fast digital experiences. I focus on clean interfaces that feel effortless to use, and I enjoy turning ideas into polished products with both design and code.',
+    'I am a front-end developer + Ui/Ux designer who loves building minimal, aesthetic and fast digital experiences. I focus on clean interfaces that feel effortless to use, and I enjoy turning ideas into polished products with both design and code.',
   resume: 'https://drive.google.com/file/d/1melWSAiVb81eMQUlmfSAeixeB1glXWuH/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/arindam-sharma-ab4712251/',
