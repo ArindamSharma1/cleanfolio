@@ -12,7 +12,7 @@ const Contact = () => {
       </div>
       <a href={`mailto:${contact.email}`} target='_blank' rel='noopener noreferrer'>
         <span type='button' className='btn btn--outline'>
-          reach me.
+          email me.
         </span>
       </a>
     </section>

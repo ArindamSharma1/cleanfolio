@@ -62,7 +62,7 @@ const skills = [
 ]
 
 const contact = {
-  email: 'https://linktr.ee/arindam_sharma',
+  email: 'sharmaarindam091@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
